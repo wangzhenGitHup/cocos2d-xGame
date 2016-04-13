@@ -1,0 +1,10 @@
+<Solution>
+  <PropertyGroup Name="TestArmatureNode" Version="2.1.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="TestArmatureNode.csd" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
